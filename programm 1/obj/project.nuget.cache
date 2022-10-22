@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQnOM89FNYXtK9omAK2HRYxnjsn5t4GHCg9dqpHd1W//nU4eIkpls2xw0hPPlnARi1H9t3EqGfuPuGPAAZqLdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\3 курс\\системное программирование\\programm 1\\programm 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog.sinks.periodicbatching\\3.1.0\\serilog.sinks.periodicbatching.3.1.0.nupkg.sha512",
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\serilog.sinks.seq\\5.2.1\\serilog.sinks.seq.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
